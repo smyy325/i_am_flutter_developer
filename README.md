@@ -26,11 +26,4 @@ This project is a small practice app developed as part of Angela Yu’s Flutter 
 
 ---
 
-## ▶️ Çalıştırma | Run the App  
-
-**TR:**  
-1. Depoyu klonlayın:  
-   ```bash
-   git clone <repo-link>
-
 <img width="335" height="746" alt="Image" src="https://github.com/user-attachments/assets/822ef126-93b7-459d-99b9-a560e1d9f02e" />
